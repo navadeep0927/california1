@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "This is my first program in GIT"
+echo "This is my first script in GIT"
 
 echo "creating new branch"
 
